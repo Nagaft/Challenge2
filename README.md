@@ -1,4 +1,4 @@
-# Challenge2 Web Pag
+# Challenge2 Web Page
 The Challenge2 web page 
 This page provides information about me with the objective to satisfy the acceptance criteria
 
